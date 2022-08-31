@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhristianG93
-- 👀 I’m interested in coding and learning penetration testing
-- 🌱 I’m currently learning Information Security on freecodecamp.org
+- 👀 I’m interested in coding and learning Front-end Development
+- 🌱 I’m currently learning Front-end Developer from Meta on coursera.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Email: khristian.garcia@outlook.com   
 
